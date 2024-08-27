@@ -29,5 +29,12 @@
     "phpcbf.standard": "WordPress",
     "php.validate.run": "onType",
     "workbench.editor.enablePreview": false,
-    "extensions.ignoreRecommendations": true
+    "extensions.ignoreRecommendations": true,
+    "cSpell.words": [
+      "ajaxurl",
+      "googlesitekit",
+      "litespeed",
+      "opengraph",
+      "wpseo"
+    ]
   }
