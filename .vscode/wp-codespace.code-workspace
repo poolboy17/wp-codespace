@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"explorer.openEditors.visible": 0,
+		"terminal.integrated.fontSize": 20,
+		"workbench.colorTheme": "Default Dark+",
+		"workbench.statusBar.visible": true,
+		"php.validate.run": "onType",
+		"workbench.editor.enablePreview": false,
+		"extensions.ignoreRecommendations": true
+	}
+}

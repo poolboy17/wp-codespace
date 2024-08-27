@@ -36,5 +36,6 @@
       "litespeed",
       "opengraph",
       "wpseo"
-    ]
-  }
+    ],
+    "sonarlint.ls.javaHome": "/path/to/your/jre"
+}
